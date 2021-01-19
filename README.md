@@ -1,3 +1,3 @@
-# Kamp-ntro
-## deneme
-### bu bir deneme readme si dir!!!
+# Kamp-intro
+## ENGİN DEMİROG İLE YAZILIM GELİŞTİRME KAMPI PROJELERİ
+### Deneme Readmesi...
